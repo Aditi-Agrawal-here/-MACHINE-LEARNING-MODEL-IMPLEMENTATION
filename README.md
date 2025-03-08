@@ -65,8 +65,6 @@ Prediction Results – Shows classification results (spam/ham).
 Output Files:
 
 spam.csv – Dataset containing labeled messages.
-spam_classifier.pkl – Trained machine learning model.
-transformed_data.pkl – Vectorized text data used for classification.
 
 Challenges Faced and Learnings:
 1) Handling text preprocessing efficiently – Removing stopwords, stemming words, and handling noisy data.
