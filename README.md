@@ -15,7 +15,6 @@
 
 
 
-
 ##Spam Message Classification
 
 About This Project:
